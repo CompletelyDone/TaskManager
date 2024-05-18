@@ -42,8 +42,7 @@
               "RelativeToolTip": "TaskManager.Core\\Models\\ProjectTasks.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T05:51:45.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T05:51:45.316Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "TaskManager.Core\\Models\\Company.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T05:18:52.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T05:18:52.337Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "TaskManager.Core\\Models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T05:06:52.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T05:06:52.6Z"
             }
           ]
         }
