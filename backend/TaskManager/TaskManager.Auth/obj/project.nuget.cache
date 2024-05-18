@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "emCgYi7H40DYmUIBR6kUJNXVCakdX9K81D+KOukPv6OZf6EgRNro082a0XC5/O9Ygk2gYYgd9UFJ8XCRBukwEA==",
+  "success": true,
+  "projectFilePath": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Auth\\TaskManager.Auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
