@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskManager.Auth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e89afbf24f9669604ee8af0714991a27ef0ba21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12b42cdc5b496cc13841d5e2434b44b77ee8ddd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskManager.Auth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskManager.Auth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

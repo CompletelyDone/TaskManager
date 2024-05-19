@@ -1,7 +1,7 @@
 import { SimpleGrid } from "@chakra-ui/react";
 import { Project } from "./Project";
 
-export const Body = () => {
+export const MyProjects = () => {
   const temp = [
     {
       id: 1,
@@ -22,7 +22,7 @@ export const Body = () => {
       projectManager: "SomeOne",
     },
     {
-      id: 3,
+      id: 4,
       title: "TaskManager",
       orderCompany: "Git",
       projectManager: "Роман",
