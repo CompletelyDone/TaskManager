@@ -8,6 +8,7 @@ import {
   MenuList,
   Text,
 } from "@chakra-ui/react";
+import { IoChevronDown } from "react-icons/io5"
 
 export const Header = ({ isLogin }) => {
   return (
@@ -19,7 +20,7 @@ export const Header = ({ isLogin }) => {
       </div>
       {isLogin ? (
         <Menu>
-          <MenuButton className="mr-6">
+          <MenuButton as={Button} variant='ghost' className="mr-6" _expanded={{ bg: 'white.0'}} rightIcon={<IoChevronDown />}>
             <Text fontSize="lg" as="b">
               Профиль
             </Text>

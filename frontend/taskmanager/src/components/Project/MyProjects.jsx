@@ -1,5 +1,6 @@
 import { SimpleGrid } from "@chakra-ui/react";
 import { Project } from "./Project";
+import { CreateProject } from "./CreateProject";
 
 export const MyProjects = () => {
   const temp = [
@@ -35,6 +36,7 @@ export const MyProjects = () => {
         spacing={6}
         templateColumns="repeat(auto-fill, minmax(200px, 1fr))"
       >
+        <CreateProject />
         {temp.map((project) => (
           <Project
             key={project.id}

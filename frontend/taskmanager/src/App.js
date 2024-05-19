@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
-import { Header } from "./components/Header";
-import { MyProjects } from "./components/MyProjects";
-import { Auth } from "./components/Auth";
+import { Header } from "./components/Base/Header";
+import { MyProjects } from "./components/Project/MyProjects";
+import { Auth } from "./components/AuthReg/Auth";
 
 function App() {
-  const [isLogin, setIsLogin] = useState(false);
+  const [isLogin, setIsLogin] = useState(true);
 
   useEffect(() => {
     document.title = "Task Manager";
