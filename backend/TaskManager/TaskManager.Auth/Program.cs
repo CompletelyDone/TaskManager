@@ -1,27 +1,40 @@
-var builder = WebApplication.CreateBuilder(args);
+using Microsoft.AspNetCore.CookiePolicy;
+using Microsoft.Extensions.Options;
+using TaskManager.Application.Utilities;
+using TaskManager.Auth.Extensions;
+using TaskManager.Core.Abstractions;
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+var builder = WebApplication.CreateBuilder(args);
+var services = builder.Services;
+var configuration = builder.Configuration;
+
+services.Configure<JwtOptions>(configuration.GetSection(nameof(JwtOptions)));
+var jwtOptions = configuration.GetSection(nameof(JwtOptions)).Get<JwtOptions>();
+services.AddApiAuthentication(Options.Create(jwtOptions));
+
+services.AddControllers();
+services.AddSwaggerGen();
+
+services.AddScoped<IJwtProvider, JwtProvider>();
+services.AddScoped<IPasswordHasher, PasswordHasher>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
-app.UseStaticFiles();
 
-app.UseRouting();
+app.UseCookiePolicy(new CookiePolicyOptions
+{
+    MinimumSameSitePolicy = SameSiteMode.Strict,
+    HttpOnly = HttpOnlyPolicy.Always,
+    Secure = CookieSecurePolicy.Always
+});
 
+app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.MapControllers();
 
 app.Run();

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23899AE0-15BA-4328-B839-04A5C4D9DB72}|TaskManager.Core\\TaskManager.Core.csproj|d:\\petprojects\\taskmanager\\backend\\taskmanager\\taskmanager.core\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23899AE0-15BA-4328-B839-04A5C4D9DB72}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3979CE33-A7EB-4BB5-AC44-5BDCB3ECF5BF}|TaskManager.Application\\TaskManager.Application.csproj|d:\\petprojects\\taskmanager\\backend\\taskmanager\\taskmanager.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3979CE33-A7EB-4BB5-AC44-5BDCB3ECF5BF}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23899AE0-15BA-4328-B839-04A5C4D9DB72}|TaskManager.Core\\TaskManager.Core.csproj|d:\\petprojects\\taskmanager\\backend\\taskmanager\\taskmanager.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23899AE0-15BA-4328-B839-04A5C4D9DB72}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3979CE33-A7EB-4BB5-AC44-5BDCB3ECF5BF}|TaskManager.Application\\TaskManager.Application.csproj|d:\\petprojects\\taskmanager\\backend\\taskmanager\\taskmanager.application\\utilities\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3979CE33-A7EB-4BB5-AC44-5BDCB3ECF5BF}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\utilities\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23899AE0-15BA-4328-B839-04A5C4D9DB72}|TaskManager.Core\\TaskManager.Core.csproj|d:\\petprojects\\taskmanager\\backend\\taskmanager\\taskmanager.core\\models\\projecttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23899AE0-15BA-4328-B839-04A5C4D9DB72}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\models\\projecttasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6AF4A87-28B8-4CBB-ADC3-69E0EE2B8DD6}|TaskManager.Auth\\TaskManager.Auth.csproj|d:\\petprojects\\taskmanager\\backend\\taskmanager\\taskmanager.auth\\extensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AF4A87-28B8-4CBB-ADC3-69E0EE2B8DD6}|TaskManager.Auth\\TaskManager.Auth.csproj|solutionrelative:taskmanager.auth\\extensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23899AE0-15BA-4328-B839-04A5C4D9DB72}|TaskManager.Core\\TaskManager.Core.csproj|d:\\petprojects\\taskmanager\\backend\\taskmanager\\taskmanager.core\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23899AE0-15BA-4328-B839-04A5C4D9DB72}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6AF4A87-28B8-4CBB-ADC3-69E0EE2B8DD6}|TaskManager.Auth\\TaskManager.Auth.csproj|d:\\petprojects\\taskmanager\\backend\\taskmanager\\taskmanager.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AF4A87-28B8-4CBB-ADC3-69E0EE2B8DD6}|TaskManager.Auth\\TaskManager.Auth.csproj|solutionrelative:taskmanager.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AF4A87-28B8-4CBB-ADC3-69E0EE2B8DD6}|TaskManager.Auth\\TaskManager.Auth.csproj|d:\\petprojects\\taskmanager\\backend\\taskmanager\\taskmanager.auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AF4A87-28B8-4CBB-ADC3-69E0EE2B8DD6}|TaskManager.Auth\\TaskManager.Auth.csproj|solutionrelative:taskmanager.auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +38,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProjectTasks.cs",
-              "DocumentMoniker": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Core\\Models\\ProjectTasks.cs",
-              "RelativeDocumentMoniker": "TaskManager.Core\\Models\\ProjectTasks.cs",
-              "ToolTip": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Core\\Models\\ProjectTasks.cs",
-              "RelativeToolTip": "TaskManager.Core\\Models\\ProjectTasks.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T05:51:45.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Company.cs",
-              "DocumentMoniker": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Core\\Models\\Company.cs",
-              "RelativeDocumentMoniker": "TaskManager.Core\\Models\\Company.cs",
-              "ToolTip": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Core\\Models\\Company.cs",
-              "RelativeToolTip": "TaskManager.Core\\Models\\Company.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T05:18:52.337Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Project.cs",
-              "DocumentMoniker": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Core\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "TaskManager.Core\\Models\\Project.cs",
-              "ToolTip": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Core\\Models\\Project.cs",
-              "RelativeToolTip": "TaskManager.Core\\Models\\Project.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "TaskManager.Application\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T05:11:53.683Z",
+              "WhenOpened": "2024-05-22T04:38:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Auth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManager.Auth\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Auth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManager.Auth\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:08:05.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Core\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "TaskManager.Core\\Models\\Employee.cs",
-              "ToolTip": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Core\\Models\\Employee.cs",
-              "RelativeToolTip": "TaskManager.Core\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Application\\Utilities\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\Utilities\\JwtProvider.cs",
+              "ToolTip": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Application\\Utilities\\JwtProvider.cs",
+              "RelativeToolTip": "TaskManager.Application\\Utilities\\JwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T05:06:52.6Z"
+              "WhenOpened": "2024-05-22T03:45:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiExtensions.cs",
+              "DocumentMoniker": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Auth\\Extensions\\ApiExtensions.cs",
+              "RelativeDocumentMoniker": "TaskManager.Auth\\Extensions\\ApiExtensions.cs",
+              "ToolTip": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Auth\\Extensions\\ApiExtensions.cs",
+              "RelativeToolTip": "TaskManager.Auth\\Extensions\\ApiExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:30:49.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Auth\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager.Auth\\Program.cs",
+              "ToolTip": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Auth\\Program.cs",
+              "RelativeToolTip": "TaskManager.Auth\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:14:24.271Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -17,12 +17,11 @@
 
         public List<Employee> Employees { get; set; } = [];
 
-        public Project(Guid _id, string _title, DateTime? _startDate, Guid _orderCompany)
+        public Project(Guid id, string title, Guid orderCompany)
         {
-            Id = _id;
-            Title = _title;
-            StartDate = _startDate;
-            OrderCompanyId = _orderCompany;
+            Id = id;
+            Title = title;
+            OrderCompanyId = orderCompany;
         }
     }
 }

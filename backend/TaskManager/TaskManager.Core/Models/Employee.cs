@@ -14,18 +14,13 @@
         public List<Project> Projects { get; set; } = [];
         public List<ProjectTasks> Tasks { get; set; } = [];
 
-        public Employee(
-            Guid _id, string _name, string _surname, string? _patronomic, 
-            Guid? _companyId,
-            string _email, string _password)
+        public Employee(Guid id, string name, string surname, string email, string password)
         {
-            Id = _id;
-            Name = _name;
-            Surname = _surname;
-            CompanyId = _companyId;
-            Patronomic = _patronomic;
-            Email = _email;
-            HashedPassword = _password;
+            Id = id;
+            Name = name;
+            Surname = surname;
+            Email = email;
+            HashedPassword = password;
         }
     }
 }

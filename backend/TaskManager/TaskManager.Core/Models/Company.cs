@@ -9,10 +9,10 @@
         public List<Project> ExecutingProjects { get; set; } = [];
         public List<Project> OrderedProjects { get; set; } = [];
 
-        public Company(Guid _id, string _title)
+        public Company(Guid id, string title)
         {
-            Id = _id;
-            Title = _title;
+            Id = id;
+            Title = title;
         }
     }
 }
