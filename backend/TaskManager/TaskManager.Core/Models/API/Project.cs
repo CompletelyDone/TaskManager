@@ -1,4 +1,4 @@
-﻿namespace TaskManager.Core.Models
+﻿namespace TaskManager.Core.Models.API
 {
     public class Project
     {
@@ -13,7 +13,7 @@
         public Company? ExecutorCompany { get; set; }
 
         public Guid? ProjectManagerId { get; set; } = Guid.Empty;
-        public Employee? ProjectManager {  get; set; }
+        public Employee? ProjectManager { get; set; }
 
         public List<Employee> Employees { get; set; } = [];
 

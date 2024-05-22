@@ -12,5 +12,14 @@ namespace TaskManager.Auth.Controllers
         {
             return Ok(request);
         }
+
+        [HttpPost]
+        [Route("/api/logout")]
+        public async Task<ActionResult> Logout()
+        {
+            Response.Cookies.Delete("JwtToken");
+
+            return Ok();
+        }
     }
 }

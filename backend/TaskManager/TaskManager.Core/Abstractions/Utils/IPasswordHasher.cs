@@ -1,4 +1,4 @@
-﻿namespace TaskManager.Core.Abstractions
+﻿namespace TaskManager.Core.Abstractions.Utils
 {
     public interface IPasswordHasher
     {

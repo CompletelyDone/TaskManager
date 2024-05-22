@@ -1,4 +1,4 @@
-﻿namespace TaskManager.Core.Models
+﻿namespace TaskManager.Core.Models.API
 {
     public class ProjectTasks
     {

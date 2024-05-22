@@ -1,6 +1,6 @@
-﻿using TaskManager.Core.Models;
+﻿using TaskManager.Core.Models.API;
 
-namespace TaskManager.Core.Abstractions
+namespace TaskManager.Core.Abstractions.Utils
 {
     public interface IJwtProvider
     {

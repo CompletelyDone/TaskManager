@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.CookiePolicy;
 using Microsoft.Extensions.Options;
 using TaskManager.Application.Utilities;
 using TaskManager.Auth.Extensions;
-using TaskManager.Core.Abstractions;
+using TaskManager.Core.Abstractions.Utils;
 
 var builder = WebApplication.CreateBuilder(args);
 var services = builder.Services;

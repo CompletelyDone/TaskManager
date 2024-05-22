@@ -3,8 +3,8 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using TaskManager.Core.Abstractions;
-using TaskManager.Core.Models;
+using TaskManager.Core.Abstractions.Utils;
+using TaskManager.Core.Models.API;
 
 namespace TaskManager.Application.Utilities
 {
