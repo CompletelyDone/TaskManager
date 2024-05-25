@@ -1,8 +1,11 @@
 using Microsoft.AspNetCore.CookiePolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
-using TaskManager.Application.Utilities;
+using TaskManager.Application.Utils;
 using TaskManager.Auth.Extensions;
-using TaskManager.Core.Abstractions.Utils;
+using TaskManager.Core.Utils.Abstractions;
+using TaskManager.DataAccess.Auth.DBContext;
+using TaskManager.DataAccess.Mapping;
 
 var builder = WebApplication.CreateBuilder(args);
 var services = builder.Services;
@@ -11,6 +14,13 @@ var configuration = builder.Configuration;
 services.Configure<JwtOptions>(configuration.GetSection(nameof(JwtOptions)));
 var jwtOptions = configuration.GetSection(nameof(JwtOptions)).Get<JwtOptions>();
 services.AddApiAuthentication(Options.Create(jwtOptions));
+
+services.AddAutoMapper(typeof(AuthMapping));
+
+services.AddDbContext<AuthDBContext>(options =>
+{
+    options.UseSqlite(configuration.GetConnectionString(nameof(AuthDBContext)));
+});
 
 services.AddControllers();
 services.AddSwaggerGen();

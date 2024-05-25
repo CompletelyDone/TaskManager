@@ -1,5 +1,4 @@
-﻿using TaskManager.Core.Abstractions.Utils;
-using TaskManager.Core.Models;
+﻿using TaskManager.Core.Utils.Abstractions;
 
 namespace TaskManager.Application.Services
 {
@@ -16,7 +15,8 @@ namespace TaskManager.Application.Services
 
         public async Task<string> Login(string email, string password)
         {
-            return "";
+            var user = "";
+            return user;
         }
     }
 }

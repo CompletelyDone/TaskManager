@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "upwIhOH7ahS87VT4R9cV6w3wknKgK+bRJy4u+aEIN6njiJSkSx01VTu+6DmVrvYjKPlK4lHr4pDYdLCRIDXs2w==",
+  "dgSpecHash": "B8uAjje2ovjbD1qKY23TedX7QL2eoJAdNN2Pb7w+m85r4888TElAERHomTqvk1BMsTCuMpuu/JHzoISXwr3xmg==",
   "success": true,
   "projectFilePath": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Core\\TaskManager.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\roman\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

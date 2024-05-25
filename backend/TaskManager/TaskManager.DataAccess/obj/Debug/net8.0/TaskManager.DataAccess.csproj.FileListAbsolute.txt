@@ -1,0 +1,16 @@
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.deps.json
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.dll
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Core.dll
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\bin\Debug\net8.0\TaskManager.Core.pdb
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.AssemblyReference.cache
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfoInputs.cache
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.AssemblyInfo.cs
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.csproj.CoreCompileInputs.cache
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.sourcelink.json
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\obj\Debug\net8.0\TaskMana.388921B7.Up2Date
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.dll
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\obj\Debug\net8.0\refint\TaskManager.DataAccess.dll
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\obj\Debug\net8.0\TaskManager.DataAccess.pdb
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.DataAccess\obj\Debug\net8.0\ref\TaskManager.DataAccess.dll

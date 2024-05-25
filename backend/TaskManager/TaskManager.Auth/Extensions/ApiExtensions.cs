@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using TaskManager.Application.Utilities;
+using TaskManager.Application.Utils;
 
 namespace TaskManager.Auth.Extensions
 {

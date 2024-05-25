@@ -14,5 +14,15 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManager.Auth.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

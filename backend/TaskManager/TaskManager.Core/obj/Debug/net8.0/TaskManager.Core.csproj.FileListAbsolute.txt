@@ -10,3 +10,4 @@ D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.Core\obj\Debug\net8.0
 D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.Core\obj\Debug\net8.0\refint\TaskManager.Core.dll
 D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.Core\obj\Debug\net8.0\TaskManager.Core.pdb
 D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.Core\obj\Debug\net8.0\ref\TaskManager.Core.dll
+D:\PetProjects\TaskManager\backend\TaskManager\TaskManager.Core\obj\Debug\net8.0\TaskManager.Core.csproj.AssemblyReference.cache
