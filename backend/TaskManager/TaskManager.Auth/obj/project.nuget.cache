@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "s5sBVH6zIihI+Weh74GFfyHM2dCrOfTQVsnVsFkfKfQUCFje0/cddzOTrawK3Wm/9bVmU9V1jzZmNAPso1M4nA==",
+  "dgSpecHash": "rT1mYyTHlfZet7HQi+4JlD5yoG8UaSdArh1nmvgTs0LQFDSjFhM+hqyM6o651tWJ7tPMhJwpMY4/xTxaYy0gXQ==",
   "success": true,
   "projectFilePath": "D:\\PetProjects\\TaskManager\\backend\\TaskManager\\TaskManager.Auth\\TaskManager.Auth.csproj",
   "expectedPackageFiles": [
